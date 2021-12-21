@@ -1,0 +1,37 @@
+{
+  "name": "react-desktop-menu",
+  "version": "1.0.0",
+  "description": "A desktop like menu bar for react and mui.",
+  "main": "index.js",
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.2.4",
+    "@mui/material": "^5.2.4",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pascapone/react-desktop-menu.git"
+  },
+  "keywords": [
+    "Desktop",
+    "Menu",
+    "React",
+    "MUI"
+  ],
+  "author": "Pasko70",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pascapone/react-desktop-menu/issues"
+  },
+  "homepage": "https://github.com/Pascapone/react-desktop-menu#readme"
+}
